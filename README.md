@@ -8,7 +8,7 @@ This is a game that is modeled off the game Simon. So the way that it works is t
 
 Start by cloning the repo : 
 ```sh
-git clone https://github.com/dishantagg24basic-simon-game
+git clone https://github.com/dishantagg24/basic-simon-game
 ```
 Or Download and extract the zip file.
 ### Prerequisites
