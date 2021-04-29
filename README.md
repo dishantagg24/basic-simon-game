@@ -38,4 +38,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Acknowledgments
 
-* https://www.udemy.com/course/the-web-developer-bootcamp/
+* https://www.udemy.com/course/the-complete-web-development-bootcamp/
